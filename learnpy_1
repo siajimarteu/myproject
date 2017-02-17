@@ -1,0 +1,7 @@
+  i = 1
+    while True:
+      if( i > 10):
+        print "i was a :", i
+        elif 1 >= 10:
+      break
+      
